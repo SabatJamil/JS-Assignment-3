@@ -1,0 +1,19 @@
+table{
+    background-color: antiquewhite;
+    border: solid 10px gray ;
+    width: 70%;
+    height: 40vh;
+}
+th{
+    text-align: center;
+}
+tr{
+    text-align: center;
+}
+ 
+.btn {
+    border: solid  black i=; 
+    width: 200px;
+    background-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
